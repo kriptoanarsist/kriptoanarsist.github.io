@@ -3,7 +3,6 @@ baseURL = "https://kriptoanarsist.github.io"
 title = "Kripto Anarşist"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
-theme = "hugo.386"
 preserveTaxonomyNames = true
 
 [params]
